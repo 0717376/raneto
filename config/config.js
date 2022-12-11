@@ -7,13 +7,13 @@ var path = require('path');
 // Which Theme to Use?
 //
 // Local Directory Example (for development or custom themes)
-// var theme_dir = path.join(__dirname, 'themes');
-// var theme_name = 'my-theme-directory';
+var theme_dir = path.join(__dirname, 'themes');
+var theme_name = 'default';
 //
 // Themes from NPM
 // use "dist" as the theme name for modules (for now)
-var theme_dir = path.join(__dirname, '..', 'node_modules', '@raneto/theme-default');
-var theme_name = 'dist';
+//var theme_dir = path.join(__dirname, '..', 'node_modules', '@raneto/theme-default');
+//var theme_name = 'dist';
 
 var config = {
 
@@ -123,7 +123,7 @@ var config = {
     }
   ],
 
-  locale: 'en',
+  locale: 'ru',
 
   // Support search with extra languages
   searchExtraLanguages: ['ru'],
