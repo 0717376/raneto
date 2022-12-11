@@ -18,7 +18,7 @@ var theme_name = 'dist';
 var config = {
 
   // Your site title (format: page_title - site_title)
-  site_title: 'System analyst',
+  site_title: 'Курс системного анализа',
 
   // The base URL of your site (can use %base_url% in Markdown files)
   // This should be the full path to your Raneto installation:
