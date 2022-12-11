@@ -18,7 +18,7 @@ var theme_name = 'dist';
 var config = {
 
   // Your site title (format: page_title - site_title)
-  site_title: 'Raneto Docs',
+  site_title: 'System analyst',
 
   // The base URL of your site (can use %base_url% in Markdown files)
   // This should be the full path to your Raneto installation:
@@ -41,7 +41,7 @@ var config = {
   support_email: '',
 
   // Footer Text / Copyright
-  copyright: 'Copyright &copy; ' + new Date().getFullYear() + ' - <a href="https://raneto.com">Powered by Raneto</a>',
+  // copyright: 'Copyright &copy; ' + new Date().getFullYear() + ' - <a href="https://raneto.com">Powered by Raneto</a>',
 
   // Excerpt length (used in search)
   excerpt_length: 400,
