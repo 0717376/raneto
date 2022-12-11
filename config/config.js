@@ -7,8 +7,8 @@ var path = require('path');
 // Which Theme to Use?
 //
 // Local Directory Example (for development or custom themes)
-var theme_dir = path.join(__dirname, 'themes');
-var theme_name = 'default';
+var theme_dir = path.join(__dirname, '..', 'themes');
+var theme_name = 'dist';
 //
 // Themes from NPM
 // use "dist" as the theme name for modules (for now)
