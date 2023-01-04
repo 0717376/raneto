@@ -114,12 +114,12 @@ var config = {
   // https://www.grc.com/passwords.htm
   credentials    : [
     {
-      username : 'admin',
-      password : 'password'
+      username : 'captain',
+      password : 'fochik-7gyqmI-vijvux'
     },
     {
-      username : 'admin2',
-      password : 'password'
+      username : 'captain2',
+      password : 'fochik-7gyqmI-vijvux'
     }
   ],
 
