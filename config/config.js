@@ -26,7 +26,7 @@ var config = {
   //   example 2: https://www.mydomain.com/raneto
   // Do not include a trailing "/"
   // Leave this as an empty string to use the default
-  base_url: '',
+  base_url: 'https://practicum.muravskiy.com/',
   nowrap: true,
 
   // Path Prefix
